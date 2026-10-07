@@ -1,0 +1,3 @@
+python flash_title_tool.py test "C:\Caminho\SeuJogo.exe" "Seu Novo Título"
+python flash_title_tool.py save "C:\Caminho\SeuJogo.exe" "Novo Título"
+python flash_title_tool.py save "C:\Caminho\SeuJogo.exe" "Novo Título" --old-title "Adobe Flash Player 32"
